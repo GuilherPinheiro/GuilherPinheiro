@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there! 😁
 
+My name is Guilherme Pinheiro from Brazil (🇧🇷). I'm a Front-End Developer and passionate about open source projects. Feel free to check these projects here on github that i created to help me learn and practice.
+
+In my free time I mostly read books (📚) and play music (🎵). 
+
+Would you like to find me?
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermecabpinheiro/)
 <!--
 **GuilherPinheiro/GuilherPinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
